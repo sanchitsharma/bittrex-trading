@@ -2,7 +2,7 @@
 
 Repository to store experiments with Algorithmic/Automated trading
 
-Current mains 
+Current aims 
 
 1. to configure bittrex api - begin with putting stop loss/ buy orders through python 
 2. to get historical data
